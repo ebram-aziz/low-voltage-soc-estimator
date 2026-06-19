@@ -1,6 +1,7 @@
 
- LV BMS — SOC Estimator
-# Author: Ebram Aziz
+LV BMS — SOC Estimator
+Author: Ebram Aziz
+
 This project combines:
 
 - Original LTC2943 firmware
