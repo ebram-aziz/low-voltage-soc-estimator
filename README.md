@@ -1,6 +1,7 @@
 
 LV BMS — SOC Estimator
-Author: Ebram Aziz
+
+<br/>Author: Ebram Aziz
 
 This project combines:
 
